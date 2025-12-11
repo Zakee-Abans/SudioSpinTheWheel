@@ -8,7 +8,7 @@
     height: 100vh; /* Ensure the body takes up the full viewport height */
     width: 100%; /* Ensure the body takes up the full viewport width */
     max-width: 100%; /* Remove the max-width restriction */
-    background-image: url("images/Raffle Bg copy 2.png");
+    background-image: url("Raffle Bg copy 2.png");
     background-size: cover; /* Make the background image cover the entire screen */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent the background from repeating */
@@ -156,6 +156,7 @@
   button:hover {
     background-color: #23af91;
   }
+
 
 
   
